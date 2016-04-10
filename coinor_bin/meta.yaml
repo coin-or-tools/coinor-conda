@@ -7,6 +7,7 @@ package:
 requirements:
   run:
     - ipopt_bin
+    - cbc_bin
 
 about:
   license: BSD License

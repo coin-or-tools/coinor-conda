@@ -1,0 +1,13 @@
+# A metapackage for COIN-OR solvers
+
+package:
+  name: coinor_bin
+  version: 1.0
+
+requirements:
+  run:
+    - ipopt_bin
+
+about:
+  license: BSD License
+  summary: 'A metapackage for COIN-OR solvers'
